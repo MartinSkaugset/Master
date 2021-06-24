@@ -3,9 +3,11 @@ MSc project for Martin Skaugset
 
 Pre_mission.py - Used for creating ocean fields
 
+stats.py - Used for Statistical Analysis
+
 sinmoddata.py - Used to interact with ocean data
 
-ocean_server - Used to retrive data from sinmoddata
+ocean_server.py - Used to retrive data from sinmoddata
 
 samples_2017.05.11 - Contains ocean data from 2017.05.11 to 2017.05.12
 
